@@ -1,7 +1,0 @@
-##abra o terminal e digite os comandos:
-
-cd src/
-
-python create_tables_and_records.py
-
-python principal.py
