@@ -2,6 +2,11 @@
 
 Esse sistema de exemplo é composto por um conjunto de tabelas que representam um sistema de escola de esportes, contendo tabelas como: alunos, esportes e professores.
 
+Para rodar o sistema primeiro entre na pasta src:
+```shell
+~$ cd src/
+```
+
 O sistema exige que as tabelas existam, então basta executar o script Python a seguir para criação das tabelas e preenchimento de dados de exemplos:
 ```shell
 ~$ python create_tables_and_records.py
