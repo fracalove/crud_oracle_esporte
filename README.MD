@@ -2,7 +2,7 @@
 
 Assista o código sendo executado:
 ```shell
-[https://www.youtube.com/watch?v=VQh2OXG5zHs](https://www.youtube.com/watch?v=VQh2OXG5zHs)
+https://www.youtube.com/watch?v=VQh2OXG5zHs
 ```
 
 Esse sistema de exemplo é composto por um conjunto de tabelas que representam um sistema de escola de esportes, contendo tabelas como: alunos, esportes e professores.
